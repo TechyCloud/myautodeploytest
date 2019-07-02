@@ -2,4 +2,4 @@
 
 #Install the Packages
 
-apt-get install apache2 -y
+echo "Success"
