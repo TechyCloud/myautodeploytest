@@ -1,3 +1,5 @@
 #!/bin/bash
-apt-get update
-apt-get install -y apache2
+
+#Remove the old Files
+
+apt-get update 
