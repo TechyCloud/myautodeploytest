@@ -3,7 +3,6 @@ os: Linux
 files:
  - source: scripts/index.html
    destination: /var/www/html
-
 hooks:
  BeforeInstall:
    - location: scripts/install_dependencies.sh
