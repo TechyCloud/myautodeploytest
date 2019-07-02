@@ -1,5 +1,3 @@
 #!/bin/bash
-
-#Update the packages
-apt-get update
+apt-get update -y
 
